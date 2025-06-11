@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Furnitu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="network_error_title">Нет подключения</string>
+    <string name="network_error_message">Проверьте подключение к интернету и попробуйте снова</string>
+    <string name="error_404_message">Страница не найдена</string>
+    <string name="error_http_message">Ошибка загрузки: %d</string>
+    <string name="error_loading_message">Ошибка при загрузке страницы</string>
+    <string name="retry">Повторить</string>
+    <string name="exit">Выход</string>
+    <string name="error_title">Ошибка?????!!!</string>
+</resources>
